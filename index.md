@@ -7,6 +7,7 @@ This is where I host certain repositories from GitHub, thanks to GitHub pages. I
 Finished stuff that could be improved:
   - P5.JS:
     - [Christmas-Game-2020](https://github.com/PYJS123/Christmas-Game-2020)
+    - [Maze-Generator](https://github.com/PYJS123/Maze-Generator)
   - Python:
     - Pygame Zero:
       - Something
@@ -16,7 +17,7 @@ Finished stuff that could be improved:
 
 Unfininished stuff you should keep up to date with:
   - P5.JS:
-    - Something
+    - [Chrome-Dino-P5](https://github.com/PYJS123/Chrome-Dino-P5)
   - Python:
     - Pygame Zero:
       - Something
