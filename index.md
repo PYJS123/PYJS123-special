@@ -1,7 +1,7 @@
 ## Welcome to My Kind of Website!
 
 This is where I host certain repositories from GitHub, thanks to GitHub pages. I also put stuff I like here (for some reason.)
-___
+___________________________________________________________________________
 **[Repositories](https://github.com/PYJS123?tab=repositories)**:
 
 Finished stuff that could be improved:
@@ -13,7 +13,7 @@ Finished stuff that could be improved:
     - Something
   - Pure HTML:
     - Something
-___
+___________________________________________________________________________
 Unfininished stuff you should keep up to date with:
   - P5.JS:
     - Something
@@ -23,7 +23,7 @@ Unfininished stuff you should keep up to date with:
     - Something
   - Pure HTML:
     - Something
-___
+___________________________________________________________________________
 Things with GitHub pages:
   - P5.JS:
     - Something
@@ -33,4 +33,4 @@ Things with GitHub pages:
     - Something
   - Pure HTML:
     - Something
-___
+___________________________________________________________________________
