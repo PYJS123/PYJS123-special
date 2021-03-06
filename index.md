@@ -2,6 +2,6 @@
 
 This is where I host certain repositories from GitHub, thanks to GitHub pages. I also put stuff I like here (for some reason.)
 
-Unfinished stuff:
-Heyy
+Finished stuff that could be improved:
+  - [Christmas-Game-2020](https://github.com/PYJS123/Christmas-Game-2020)
 ***
