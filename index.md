@@ -10,7 +10,7 @@ Finished stuff that could be improved:
     - [Maze-Generator](https://github.com/PYJS123/Maze-Generator)
   - Python:
     - Pygame Zero:
-      - Something
+      - [Visual-Noughts-And-Crosses](https://github.com/PYJS123/Visual-noughts-and-crosses)
     - Something
   - Pure HTML:
     - Something
