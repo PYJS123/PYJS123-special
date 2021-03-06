@@ -37,3 +37,5 @@ Things with GitHub pages:
   - Python:
     - Pygame Zero:
       - [Pong-game-in-Pygame](https://github.com/PYJS123/Pong-game-in-Pygame)
+
+<canvas id="myCanvas" width="200" height="100" style="border:1px solid #000000;"></canvas>
