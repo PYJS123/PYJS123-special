@@ -33,3 +33,13 @@ Things with GitHub pages:
     - Something
   - Pure HTML:
     - Something
+
+"Abandoned" projects I want to come back to soon:
+  - P5.JS:
+    - Something
+  - Python:
+    - Pygame Zero:
+      - Something
+    - Something
+  - Pure HTML:
+    - Something
