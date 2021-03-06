@@ -3,7 +3,7 @@
 This is where I host certain repositories from GitHub, thanks to GitHub pages. I also put stuff I like here (for some reason.)
 <hr>
 **[Repositories](https://github.com/PYJS123?tab=repositories)**:
-<hr>
+
 Finished stuff that could be improved:
   - P5.JS:
     - [Christmas-Game-2020](https://github.com/PYJS123/Christmas-Game-2020)
@@ -13,7 +13,7 @@ Finished stuff that could be improved:
     - Something
   - Pure HTML:
     - Something
-<hr>
+
 Unfininished stuff you should keep up to date with:
   - P5.JS:
     - Something
@@ -23,7 +23,7 @@ Unfininished stuff you should keep up to date with:
     - Something
   - Pure HTML:
     - Something
-<hr>
+
 Things with GitHub pages:
   - P5.JS:
     - Something
@@ -33,4 +33,3 @@ Things with GitHub pages:
     - Something
   - Pure HTML:
     - Something
-<hr>
