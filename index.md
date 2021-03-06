@@ -18,6 +18,7 @@ Finished stuff that could be improved:
 Unfininished stuff you should keep up to date with:
   - P5.JS:
     - [Chrome-Dino-P5](https://github.com/PYJS123/Chrome-Dino-P5)
+    - [Battlefield](https://github.com/PYJS123/Battlefield)
   - Python:
     - Pygame Zero:
       - Something
@@ -27,7 +28,7 @@ Unfininished stuff you should keep up to date with:
 
 Things with GitHub pages:
   - P5.JS:
-    - Something
+    - [Maze-Generator](https://github.com/PYJS123/Maze-Generator)
   - Python:
     - Pygame Zero:
       - Something
@@ -37,7 +38,8 @@ Things with GitHub pages:
 
 "Abandoned" projects I want to come back to soon:
   - P5.JS:
-    - Something
+    - [Genetic-Algorithm](https://github.com/PYJS123/Genetic-Algorithm)
+    - [Matching-Game](https://github.com/PYJS123/Matching-Game)
   - Python:
     - Pygame Zero:
       - Something
