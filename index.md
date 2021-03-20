@@ -27,6 +27,7 @@ Things with GitHub pages:
   - P5.JS:
     - [Maze-Generator](https://github.com/PYJS123/Maze-Generator)
     - [Graph-simulator](https://github.com/PYJS123/Graph-simulator)
+    - [Raycasting-game](https://github.com/PYJS123/Raycasting-game/tree/gh-pages)
   - Pure HTML:
     - [HTML-test](https://github.com/PYJS123/HTML-test)
 
