@@ -21,6 +21,7 @@ Unfininished stuff you should keep up to date with:
   - P5.JS:
     - [Chrome-Dino-P5](https://github.com/PYJS123/Chrome-Dino-P5)
     - [Battlefield](https://github.com/PYJS123/Battlefield)
+    - [Raycasting-game](https://github.com/PYJS123/Raycasting-game/tree/gh-pages)
 
 Things with GitHub pages:
   - P5.JS:
