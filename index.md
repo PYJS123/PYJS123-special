@@ -22,6 +22,8 @@ Unfininished stuff you should keep up to date with:
     - [Chrome-Dino-P5](https://github.com/PYJS123/Chrome-Dino-P5)
     - [Battlefield](https://github.com/PYJS123/Battlefield)
     - [Raycasting-game](https://github.com/PYJS123/Raycasting-game/tree/gh-pages)
+  - JavaScript:
+    - [Tic-Tac-Toe-attempt](https://github.com/PYJS123/Tic-Tac-Toe-attempt/tree/main)
 
 Things with GitHub pages:
   - P5.JS:
@@ -30,6 +32,8 @@ Things with GitHub pages:
     - [Raycasting-game](https://github.com/PYJS123/Raycasting-game/tree/gh-pages)
   - Pure HTML:
     - [HTML-test](https://github.com/PYJS123/HTML-test)
+  - JavaScript:
+    - [Tic-Tac-Toe-attempt](https://github.com/PYJS123/Tic-Tac-Toe-attempt/tree/main)
 
 "Abandoned" projects I want to come back to soon:
   - P5.JS:
